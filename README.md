@@ -1,6 +1,6 @@
 # Hi there, I'm Valentina 👋
 
-I'm a data analyst and web developer with a passion for exploring and visualizing data, and builing websites. In my free time, you can find me hiking :walking: or making 3D projects. 
+I'm a data analyst and web developer with a passion for exploring and visualizing data, and building websites. In my free time, you can find me hiking :walking: or making 3D projects. 
 
 ## :open_book: **Skills:** 
 #### :star: Python, SQL, PowerBI, Excel (and many more :bulb:)
