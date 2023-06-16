@@ -3,7 +3,7 @@
 I'm a data analyst and web developer with a passion for exploring and visualizing data, and building websites. In my free time, you can find me hiking :walking: or making 3D projects https://tumblinger.github.io/My_3DPortfolio_Web_Development/. 
 
 ## :open_book: **Skills:** 
-#### :star: Python, SQL, PowerBI, Tableau, JavaScript, Excel (and many more :bulb:)
+#### :star: Python, SQL, PowerBI, Tableau, JavaScript, Excel (and many more :bulb:) https://public.tableau.com/app/profile/valentina.egorova/viz/BikesandAccessoiresSalesAnalusis/Dashboard1
 ## 
 
  📫 You can reach me at: https://www.linkedin.com/in/valentinaegorova/
