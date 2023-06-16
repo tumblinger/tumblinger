@@ -4,11 +4,11 @@ I'm a data analyst and web developer with a passion for exploring and visualizin
 
 ## :open_book: **Skills:** 
 #### :star: Python, SQL, PowerBI, Tableau, JavaScript, Excel (and many more :bulb:) 
-## 
-## ## :open_book: **Portfolio:** 
+ 
+## :open_book: **Portfolio:** 
 #### https://public.tableau.com/app/profile/valentina.egorova/viz/BikesandAccessoiresSalesAnalusis/Dashboard1
 #### https://tumblinger.github.io/My_3DPortfolio_Web_Development/
-#### 
+#### https://egorovavalentina.wordpress.com/myportfolio/
 
  📫 You can reach me at: https://www.linkedin.com/in/valentinaegorova/
 
