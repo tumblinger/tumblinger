@@ -1,22 +1,37 @@
 # Hi there, I'm Valentina 👋
 
-I'm a data analyst and web developer with a passion for exploring and visualizing data, and building websites. In my free time, you can find me hiking :walking: or learning something new. 
+I'm an aspiring mobile developer focused on building beautiful and functional apps with Flutter.  
+Currently studying computer science fundamentals and developing my portfolio.  
+Always learning, exploring, and pushing boundaries — in code and life. In my free time, you can find me hiking :walking: or learning something new. 🚀
 
-## :open_book: **Skills:** 
-#### :star: Python, SQL, PowerBI, Tableau, JavaScript, Excel (and many more :bulb:) 
- 
-## :open_book: **Portfolio:** 
-#### Tableau https://public.tableau.com/app/profile/valentina.egorova/viz/BikesandAccessoiresSalesAnalusis/Dashboard1
-#### 3D and Web Dev https://tumblinger.github.io/My_3DPortfolio_Web_Development/
-#### https://egorovavalentina.wordpress.com/myportfolio/
+## 🛠️ Skills
 
- 📫 You can reach me at: https://www.linkedin.com/in/valentinaegorova/
+**Main stack:**  
+Flutter, Dart, Firebase, Provider, REST API
 
-🎩 Fun fact: I was once invited on stage during a David Copperfield show in Las Vegas and got to assist him with some mind-blowing tricks!
+**Additional:**  
+Python, SQL, PowerBI, Tableau, Git, HTML/CSS, JavaScript (basic)
 
-## :open_book: **Education and Certifications:**
-#### :star: IBM Data Analyst Professional Certificate: Coursera, 2023
-#### :star: Azure Fundamentals: Microsoft, 2023
-#### :star: Full-Stack Web Development: Udemy, 2022
+**Learning now:**  
+Computer Science (CS50), Algorithms, Software Engineering fundamentals
+
+## 📁 Portfolio
+
+- 🔧 In progress: Instagram clone in Flutter  
+- 🌍 Web: [3D & Web Projects](https://tumblinger.github.io/My_3DPortfolio_Web_Development/)  
+- 📊 Data: [Bike Sales Dashboard (Tableau)](https://public.tableau.com/app/profile/valentina.egorova/viz/BikesandAccessoiresSalesAnalusis/Dashboard1)
+
+> More mobile apps coming soon!
+
+## 🎓 Education & Certifications
+
+- IBM Data Analyst Professional Certificate (Coursera, 2023)  
+- Microsoft Azure Fundamentals (2023)  
+- Full-Stack Web Development (Udemy, 2022)  
+- Currently studying: CS50x (Harvard), Flutter Development (2025)
+
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/valentinaegorova/)
+
+🎩 Fun fact: I once assisted David Copperfield live on stage in Las Vegas — helped him with some mind-blowing tricks. ✨
 
 
