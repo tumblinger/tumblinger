@@ -25,10 +25,11 @@ Computer Science (CS50), Algorithms, Software Engineering fundamentals
 
 ## 🎓 Education & Certifications
 
+- Currently studying: CS50x (Harvard) & Flutter Development (2025)
 - IBM Data Analyst Professional Certificate (Coursera, 2023)  
 - Microsoft Azure Fundamentals (2023)  
 - Full-Stack Web Development (Udemy, 2022)  
-- Currently studying: CS50x (Harvard), Flutter Development (2025)
+
 
 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/valentinaegorova/)
 
