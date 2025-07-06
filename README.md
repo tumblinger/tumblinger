@@ -10,7 +10,7 @@ Always learning, exploring, and pushing boundaries — in code and life. In my f
 Flutter, Dart, Firebase, Provider, REST API
 
 **Additional:**  
-Python, SQL, PowerBI, Tableau, Git, HTML/CSS, JavaScript (basic)
+Python, SQL, PowerBI, Tableau, Git, UI/UX, HTML/CSS, JavaScript (basic)
 
 **Learning now:**  
 Computer Science (CS50), Algorithms, Software Engineering fundamentals
