@@ -1,6 +1,6 @@
 # Hi there, I'm Valentina 👋
 
-I'm an aspiring mobile/web developer focused on building beautiful and functional apps with Flutter.  
+I'm an aspiring mobile/web developer focused on building beautiful and functional apps.  
 Currently studying computer science fundamentals and developing my portfolio.  
 Always learning, exploring, and pushing boundaries — in code and life. In my free time, you can find me hiking :walking: or learning something new 
 
