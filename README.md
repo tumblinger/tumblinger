@@ -17,7 +17,7 @@ Computer Science (CS50), Algorithms, Software Engineering fundamentals, Generati
 
 ## 📁 Portfolio
 
-- 🔧 In progress: Instagram clone in Flutter
+- 🔧 In progress: Instagram clone in Flutter, https://github.com/tumblinger/instagram_clone_flutter
 - 🤖 AI: Early projects with OpenAI API & LangChain (coming soon on GitHub) 
 - 🌍 Web: [3D & Web Projects](https://tumblinger.github.io/My_3DPortfolio_Web_Development/)  
 - 📊 Data: [Bike Sales Dashboard (Tableau)](https://public.tableau.com/app/profile/valentina.egorova/viz/BikesandAccessoiresSalesAnalusis/Dashboard1)
