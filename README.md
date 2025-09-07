@@ -1,6 +1,6 @@
 # Hi there, I'm Valentina 👋
 
-I'm an aspiring mobile/web developer focused on building beautiful and functional apps.  
+I'm an aspiring AI & mobile/web developer, building beautiful and functional apps, now expanding into AI-powered applications with Python and LLMs. 
 Currently studying computer science fundamentals and developing my portfolio.  
 Always learning, exploring, and pushing boundaries in code and life. In my free time, you can find me hiking :walking: or learning something new 
 
@@ -10,16 +10,17 @@ Always learning, exploring, and pushing boundaries in code and life. In my free 
 Flutter, Dart, Firebase, Provider, REST API
 
 **Additional:**  
-Python, SQL, PowerBI, Tableau, Git, UI/UX, HTML/CSS, JavaScript (basic)
+Python, SQL, PowerBI, Git, UI/UX, HTML/CSS, JavaScript (basic), AI/ML (early stage): OpenAI API, LangChain, Streamlit
 
 **Learning now:**  
-Computer Science (CS50), Algorithms, Software Engineering fundamentals
+Computer Science (CS50), Algorithms, Software Engineering fundamentals, Generative AI & AI Agents (Python + LLMs)
 
 ## 📁 Portfolio
 
 - 🔧 In progress: Instagram clone in Flutter  
 - 🌍 Web: [3D & Web Projects](https://tumblinger.github.io/My_3DPortfolio_Web_Development/)  
 - 📊 Data: [Bike Sales Dashboard (Tableau)](https://public.tableau.com/app/profile/valentina.egorova/viz/BikesandAccessoiresSalesAnalusis/Dashboard1)
+- 🤖 AI: Early projects with OpenAI API & LangChain (coming soon on GitHub)
 
 > More mobile apps coming soon!
 
