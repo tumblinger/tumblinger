@@ -1,6 +1,6 @@
 # Hi there, I'm Valentina 👋
 
-I'm an aspiring AI & mobile/web developer, building beautiful and functional apps, now expanding into AI-powered applications with Python and LLMs. 
+I'm an aspiring Data Analyst, AI & mobile/web developer, building beautiful and functional apps, now expanding into AI-powered applications with Python and LLMs. 
 Currently studying computer science fundamentals and developing my portfolio.  
 Always learning, exploring, and pushing boundaries in code and life. In my free time, you can find me hiking :walking: or learning something new 
 
